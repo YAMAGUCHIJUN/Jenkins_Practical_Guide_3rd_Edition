@@ -19,6 +19,7 @@ public class SampleDTO implements Serializable {
      */
     private String message;
 
+
     /**
      * Store the user name.
      * @param firstName first name of the user
